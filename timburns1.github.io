@@ -7,8 +7,9 @@
     <title>Document</title>
 </head>
 
-<h1>Some text</h1>
 <body>
+
+    <h1>Some text</h1>
     
 </body>
 </html>
